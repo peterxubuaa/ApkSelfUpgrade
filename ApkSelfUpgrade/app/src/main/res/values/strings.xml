@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApkSelfUpgrade</string>
+    <string name="action_settings">Settings</string>
+    <string name="upgrade_downloadbtn">Download</string>
+    <string name="upgrade_ignorebtn">Ignore</string>
+    <string name="upgrade_setpermissionbtn">Set Permission</string>
+    <string name="upgrade_title">Version Upgrade</string>
+    <string name="upgrade_message">Current version (%1$s) is old, please upgrade to latest version (%2$s)</string>
+    <string name="upgrade_permission_title">Need Permission</string>
+    <string name="upgrade_permission_message">please allow to access external storage</string>
+    <string name="upgrade_permission_warn">please allow to access external storage, or fail to upgrade!</string>
+</resources>
